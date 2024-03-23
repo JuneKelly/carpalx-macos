@@ -23,20 +23,41 @@ Layouts](https://mk.bcgsc.ca/carpalx/?partial_optimization#carpalxq_user_contrib
 
 ## Installation Instructions
 
-1. Download this repository
+1. Download this repository, by clicking the green "Code" button above and
+   choosing either a `git`-based option, or choosing the zip file.
+
+![Download the repository](install-download.png)
+
 2. Copy the `Carpalx.bundle` file to either `~/Library/Keyboard Layouts/`, or
 to `/Library/Keyboard Layouts/`
-3. You may need to restart your computer
+
+![Copy the bundle](install-copy-bundle.png)
+
+3. (You may need to restart your computer at this point)
+
 4. Open the System Settings app
-5. Open "Keyboard Settings"
+
+5. Open "Keyboard" settings
+
 6. Under the "Text Input" heading, click "Edit"
+
+![Edit button under Text Input](install-text-input-edit.png)
+
 7. Click the "+" button in the lower-left
+
+![Plus button](install-plus-button.png)
+
 8. (At this point, the Carpalx bundle should have been loaded) Select the
 Carpalx layout you'd like to add, and click "Add"
+
+![Layout list](install-layout-list.png)
+
 9. Click "Done"
 
-In the menu bar, you should see the input source menu, where you can select the
+10. In the menu bar, you should see the input source menu, where you can select the
 keyboard layout you'd like to use.
+
+![Input source menu](install-input-source-menu.png)
 
 (Caveat: I personally use QGMLWY, so the other layouts are a blind-spot for me.
 If you have any problems with the layouts, please open an issue on this
