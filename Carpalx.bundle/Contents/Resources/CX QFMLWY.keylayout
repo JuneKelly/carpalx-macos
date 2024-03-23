@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Carpalx QGMLWY-->
-<!--Last edited by Ukelele version 396 on 2024-03-21 at 19:13 (GMT)-->
+<!--Carpalx QFMLWY.&#x000A;&#x000A;https://github.com/JuneKelly/carpalx-macos-->
+<!--Last edited by Ukelele version 396 on 2024-03-23 at 13:49 (GMT)-->
 <keyboard group="126" id="-22682" name="CX QFMLWY" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
