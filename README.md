@@ -48,7 +48,8 @@ to `/Library/Keyboard Layouts/`
 ![Plus button](_assets/install-plus-button.png)
 
 8. (At this point, the Carpalx bundle should have been loaded) Select the
-Carpalx layout you'd like to add, and click "Add"
+   Carpalx layout you'd like to add (All layouts in this bundle start with
+"CX"), and click "Add"
 
 ![Layout list](_assets/install-layout-list.png)
 
