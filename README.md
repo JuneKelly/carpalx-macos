@@ -21,7 +21,7 @@ Layouts](https://mk.bcgsc.ca/carpalx/?partial_optimization#carpalxq_user_contrib
   - (C7) **QGPR** (by [Jameson
   Quinn](https://sourceforge.net/p/qwpr/wiki/Home/))
 
-# Installation Instructions
+## Installation Instructions
 
 1. Download this repository
 2. Copy the `Carpalx.bundle` file to either `~/Library/Keyboard Layouts/`, or
@@ -58,3 +58,91 @@ keyboard editor app, starting from the default Colemak layout and then swapping
 keys until I had the desired layouts. By doing it this way, all the "special
 stuff" was preserved, and the resulting keyboard layouts fit in nicely with the
 rest of MacOS.
+
+## The Layouts
+
+### Fully Optimised
+
+#### (C1) QFMLWY
+
+Default:
+![C1 QFMLWY Screenshot](_assets/c1-screenshot.png)
+
+Holding "Option":
+![C1 QFMLWY Screenshot, holding "Option"](_assets/c1-opt-screenshot.png)
+
+#### (C2) QGMLWB
+
+Default:
+![C2 QGMLWB Screenshot](_assets/c2-screenshot.png)
+
+Holding "Option":
+![C2 QGMLWB Screenshot, holding "Option"](_assets/c2-opt-screenshot.png)
+
+#### (C3) QGMLWY
+
+Default:
+![C3 QGMLWY Screenshot](_assets/c3-screenshot.png)
+
+Holding "Option":
+![C3 QGMLWY Screenshot, holding "Option"](_assets/c3-opt-screenshot.png)
+
+### Partially Optimised
+
+#### (C4) QWKRFY
+
+Default:
+![C4 QWKRFY Screenshot](_assets/c4-screenshot.png)
+
+Holding "Option":
+![C4 QWKRFY Screenshot, holding "Option"](_assets/c4-opt-screenshot.png)
+
+#### (C5) QWYRFM
+
+Default:
+![C5 QWYRFM Screenshot](_assets/c5-screenshot.png)
+
+Holding "Option":
+![C5 QWYRFM Screenshot, holding "Option"](_assets/c5-opt-screenshot.png)
+
+### Community-Contributed Layouts
+
+#### (C6) CarpalxQ
+
+Default:
+![C6 CarpalxQ Screenshot](_assets/c6-screenshot.png)
+
+Holding "Option":
+![C6 CarpalxQ Screenshot, holding "Option"](_assets/c6-opt-screenshot.png)
+
+#### (C7) QWPR
+
+Default:
+![C7 QWPR Screenshot](_assets/c7-screenshot.png)
+
+Holding "Option":
+![C7 QWPR Screenshot, holding "Option"](_assets/c7-opt-screenshot.png)
+
+## License
+
+This work is released under the MIT license:
+
+Copyright (c) 2024 June Kelly.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
