@@ -1,7 +1,7 @@
 # Carpalx MacOS
 
-[Carpalx](https://mk.bcgsc.ca/carpalx/) keyboard layouts for MacOS, including
-"option keys" supporting the full range of special characters on MacOS.
+[Carpalx](https://mk.bcgsc.ca/carpalx/) keyboard layouts for macOS, including
+"option keys" supporting the full range of special characters on macOS.
 
 ![Screenshot of the QGMLWY layout](_assets/lead-screenshot.png)
 
@@ -69,7 +69,7 @@ repository!)
 I've been using the [Carpalx layouts from
 deekan](https://github.com/deekayen/carpalx_mac) for a long time, but I noticed
 that those layouts don't have "option keys", the special characters that are
-available on MacOS keyboard layouts by holding the Option key. Because of this,
+available on macOS keyboard layouts by holding the Option key. Because of this,
 it's not possible to type special characters or access the "dead keys" required
 to add accented characters like you can on a normal keyboard layout.
 
@@ -79,7 +79,7 @@ I made these layouts with the [Ukelele](https://software.sil.org/ukelele/)
 keyboard editor app, starting from the default Colemak layout and then swapping
 keys until I had the desired layouts. By doing it this way, all the "special
 stuff" was preserved, and the resulting keyboard layouts fit in nicely with the
-rest of MacOS.
+rest of macOS.
 
 ## The Layouts
 
